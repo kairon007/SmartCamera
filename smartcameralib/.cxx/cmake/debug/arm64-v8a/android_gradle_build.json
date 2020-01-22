@@ -1,0 +1,53 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/amitkairon/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cmake/debug/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"smart_camera-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "smart_camera",
+			"buildCommand" : "/Users/amitkairon/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cmake/debug/arm64-v8a --target smart_camera",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/amitkairon/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/amitkairon/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dsmart_camera_EXPORTS -I../../../../opencv/include -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/src/main/cpp/android_utils.cpp",
+					"workingDirectory" : "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/amitkairon/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/amitkairon/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dsmart_camera_EXPORTS -I../../../../opencv/include -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/src/main/cpp/smart_camera.cpp",
+					"workingDirectory" : "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/amitkairon/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/amitkairon/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dsmart_camera_EXPORTS -I../../../../opencv/include -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/src/main/cpp/opencv_utils.cpp",
+					"workingDirectory" : "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/build/intermediates/cmake/debug/obj/arm64-v8a/libsmart_camera.so",
+			"toolchain" : "12495650015958756349"
+		}
+	},
+	"toolchains" : 
+	{
+		"12495650015958756349" : 
+		{
+			"cCompilerExecutable" : "/Users/amitkairon/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/amitkairon/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

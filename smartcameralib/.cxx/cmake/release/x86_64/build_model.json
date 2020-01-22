@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/amitkairon/StudioProjects/SmartCamera",
+      "sdkFolder": "/Users/amitkairon/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/build/intermediates",
+      "gradleModulePathName": ":smartcameralib",
+      "moduleRootFolder": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib",
+      "makeFile": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/amitkairon/StudioProjects/SmartCamera/.cxx",
+      "cxxFolder": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx",
+      "ndkFolder": "/Users/amitkairon/Library/Android/sdk/ndk/21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11 -frtti"
+    ],
+    "variantName": "release",
+    "soFolder": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/build/intermediates/cmake/release/lib",
+    "objFolder": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/build/intermediates/cmake/release/obj",
+    "jsonFolder": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cmake/release",
+    "gradleBuildOutputFolder": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cmake/release/x86_64",
+  "jsonFile": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cmake/release/x86_64/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cxx/release/x86_64",
+  "objFolder": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/build/intermediates/cmake/release/obj/x86_64",
+  "buildCommandFile": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cmake/release/x86_64/build_command.txt",
+  "buildOutputFile": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cmake/release/x86_64/build_output.txt",
+  "modelOutputFile": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cmake/release/x86_64/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cxx/release/x86_64/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cxx/release/x86_64/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cxx/release/x86_64/build_generation_state.json",
+    "cacheKeyFile": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cxx/release/x86_64/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cxx/release/x86_64/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cxx/release/x86_64/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cxx/release/x86_64/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cmake/release/x86_64/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/amitkairon/StudioProjects/SmartCamera/smartcameralib/.cxx/cmake/release/x86_64/compile_commands.json"
+}
